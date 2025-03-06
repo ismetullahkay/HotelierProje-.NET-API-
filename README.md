@@ -52,7 +52,7 @@ Admin panelinde yer alan admin tarafından giden mesaj kutusu
 Admin panelinde yer alan admin tarafından mesaj oluşturma sayfası
 
 ![Ekran görüntüsü 2024-10-16 154438](https://github.com/user-attachments/assets/9d6dddec-b2ce-4e73-84e8-b3098ffb0f64)
-Admin panelinde yer alan admin tarafından gönderilen gerçek zamanlı mail iletisi
+Admin panelinde yer alan admin tarafından gönderilen gerçek zamanlı mail iletisi.
 
 
 
